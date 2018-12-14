@@ -1,9 +1,4 @@
-# 注册送50g流量,加快npm安装速度
-注册即送50g流量，付费用户赠送Netflix，HBO账号
 
-
-# About
-这是慕课网上[Vue+Webpack打造todo应用](https://www.imooc.com/learn/935)课程的源码
 
 
 # 使用方法
